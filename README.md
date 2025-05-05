@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winner959
 - 👀 I’m interested in becoming a Full-stack web developer
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning react.js and next.js
 - 💞️ I’m looking to collaborate on jumior roles
 - 📫 How to reach me on my email; ndubuisisuccess12@gmail.com
 - 😄 Pronouns: ...
