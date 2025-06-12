@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @winner959
+- 👋 Hi, I’m @winnerSuccess
 - 👀 I’m interested in becoming a Full-stack web developer
-- 🌱 I’m currently learning react.js and node.js and express.js
+- 🌱 I’m currently learning react.js and node.js and express.js and DSA
 - 💞️ I’m looking to collaborate on jumior roles
 - 📫 How to reach me on my email; ndubuisisuccess12@gmail.com
+- 08142117297
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
