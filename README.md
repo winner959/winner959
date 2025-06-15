@@ -5,7 +5,7 @@
 - 📫 How to reach me on my email; ndubuisisuccess12@gmail.com
 - 2348142117297 linkedln: nwugasuccess
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...i like to code, it makes me happy.
 
 <!---
 winner959/winner959 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
